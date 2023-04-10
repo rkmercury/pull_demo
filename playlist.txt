@@ -2,3 +2,6 @@ SONGS                   Director
 =====================================
 hello           rk
 natu            rk
+rpsong1         rp
+rpsong2         rp
+
